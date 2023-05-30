@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Properties\PublishProfiles\**" />
+    <Compile Remove="wwwroot\lib\**" />
+    <Content Remove="Properties\PublishProfiles\**" />
+    <Content Remove="wwwroot\lib\**" />
+    <EmbeddedResource Remove="Properties\PublishProfiles\**" />
+    <EmbeddedResource Remove="wwwroot\lib\**" />
+    <None Remove="Properties\PublishProfiles\**" />
+    <None Remove="wwwroot\lib\**" />
+    <_WebToolingArtifacts Remove="Properties\PublishProfiles\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="profile.publishsettings" />
+    <None Remove="Views\Shared\_Layout.cshtml.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ComparerEngine\ComparerEngine.csproj" />
+    <ProjectReference Include="..\ComparerEntities\ComparerEntities.csproj" />
+  </ItemGroup>
+
+</Project>

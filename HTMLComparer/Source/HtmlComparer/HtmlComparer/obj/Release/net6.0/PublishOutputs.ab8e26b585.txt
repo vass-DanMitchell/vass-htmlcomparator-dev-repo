@@ -1,0 +1,10 @@
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\HtmlComparer.exe
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\HtmlComparer.dll
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\HtmlComparer.deps.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\HtmlComparer.runtimeconfig.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\HtmlComparer.pdb
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\ComparerEntities.dll
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparer\obj\Release\net6.0\PubTmp\Out\ComparerEntities.pdb

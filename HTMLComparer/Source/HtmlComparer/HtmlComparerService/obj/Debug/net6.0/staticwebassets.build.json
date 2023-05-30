@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Zvd1DQihgyesYjnlrExMiA++3M2UaNgxuCt7jj60aTM=",
+  "Source": "HtmlComparerService",
+  "BasePath": "_content/HtmlComparerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HtmlComparerService\\wwwroot",
+      "Source": "HtmlComparerService",
+      "ContentRoot": "C:\\Note\\Trabajo\\PSK\\Projects\\Product Suite\\HtmlComparer\\HtmlComparerService\\wwwroot\\",
+      "BasePath": "_content/HtmlComparerService",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Note\\Trabajo\\PSK\\Projects\\Product Suite\\HtmlComparer\\HtmlComparerService\\wwwroot\\favicon.ico",
+      "SourceId": "HtmlComparerService",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Note\\Trabajo\\PSK\\Projects\\Product Suite\\HtmlComparer\\HtmlComparerService\\wwwroot\\",
+      "BasePath": "_content/HtmlComparerService",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

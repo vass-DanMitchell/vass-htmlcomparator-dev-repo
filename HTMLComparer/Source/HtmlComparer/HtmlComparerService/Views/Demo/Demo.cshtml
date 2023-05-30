@@ -1,0 +1,76 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>HTML Comparer Test tool</title>
+ 
+    <script src="https://cdn.ckeditor.com/ckeditor5/37.1.0/classic/ckeditor.js"></script>
+    <script type="text/javascript">
+        function fillData() {
+            var html1 = editor.getData();
+            var hdnhtml1 = document.getElementById("hdnhtml1");
+            hdnhtml1.value = html1;
+
+            var html2 = editor2.getData();
+            var hdnhtml2 = document.getElementById("hdnhtml2");
+                hdnhtml2.value = html2;
+            return true;
+        }                         
+    </script>
+</head>
+<body>
+    <form id="frmTest" action=@ViewBag.action method="post" name="frmTest">
+        <input type="hidden" id="hdnhtml1" name="hdnhtml1" value="" />
+        <input type="hidden" id="hdnhtml2" name="hdnhtml2" value="" />
+        <input type="hidden" id="result"   name="result"   value="" />
+
+    <h1>HTML Comparer Test tool</h1>
+    <table width="100%">
+        <tr>
+            <td width="50%">
+                    <div id="html1" name="html1">
+                        @Html.Raw(ViewBag.html1)
+                    </div>
+            </td>
+            <td width="50%">
+                    <div id="html2" name="html2">
+                        @Html.Raw(ViewBag.html2)
+                    </div>
+            </td>
+        </tr>
+    </table>
+       
+    <br />
+        
+        <hr />
+        <h2>Result</h2>
+        <div id="result" name="result">
+            @Html.Raw(ViewBag.result)
+        </div>
+       <br />
+       <hr />
+        <input type="submit" id="btnSubmit" name="btnSubmit" value="Submit" onclick="return fillData();" disabled="@ViewBag.disabled" />        
+    </form>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#html1'))
+            .then(newEditor => {
+                editor = newEditor;
+            })
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('#html2'))
+            .then(newEditor => {
+                editor2 = newEditor;
+            })
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+    
+</body>
+</html>

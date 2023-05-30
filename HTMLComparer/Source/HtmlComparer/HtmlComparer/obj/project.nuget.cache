@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "80Si80/dTqxaILBm2RKPLxaVY4nZJcCm1XRKYFpa0eORNpEOaSU3L9KOMdDrLGQZM2ap9PuTwIYeAyUQ14Cd9A==",
+  "success": true,
+  "projectFilePath": "C:\\Note\\Trabajo\\PSK\\Projects\\Product Suite\\PersonalHTMLComparer\\HtmlComparer\\HtmlComparer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Juan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

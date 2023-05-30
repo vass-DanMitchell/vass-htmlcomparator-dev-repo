@@ -1,0 +1,11 @@
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\HtmlComparerService.exe
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\HtmlComparerService.dll
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\HtmlComparerService.deps.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\HtmlComparerService.runtimeconfig.json
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\HtmlComparerService.pdb
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\ComparerEngine.dll
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\ComparerEntities.dll
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\ComparerEngine.pdb
+C:\Note\Trabajo\PSK\Projects\Product Suite\PersonalHTMLComparer\HtmlComparerService\obj\Release\net6.0\PubTmp\Out\ComparerEntities.pdb
