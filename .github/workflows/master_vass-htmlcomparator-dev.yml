@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'vass-htmlcomparator-dev'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A426B59947D246F086CDACC6F4C4126E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F9A6B3F312074A4EB3758477D7C0EB08 }}
           package: .
